@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "js-JP"
 title = "RoboconWiki"
 theme =  "docsy"
+themesDir = "themes"
 
 enableRobotsTXT = true
 
