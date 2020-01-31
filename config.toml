@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://roboconwiki.molina.jp/"
 languageCode = "js-JP"
 title = "RoboconWiki"
 theme =  "docsy"
@@ -51,7 +51,7 @@ github_project_repo = "https://github.com/MasayaMorinaga/RoboconWiki"
 # github_subdir = ""
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
-gcs_engine_id = "011737558837375720776:fsdu1nryfng"
+gcs_engine_id = "011776156183751321041:lhkq2bnsgvf"
 
 # Enable Algolia DocSearch
 algolia_docsearch = false
