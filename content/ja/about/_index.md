@@ -20,13 +20,15 @@ draft: false
 基礎技術を共有し, <br>互いのレベルアップを図りましょう
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-github" title="GitHub!" url="https://github.com/MasayaMorinaga" %}}
-GitHub
+{{% blocks/feature icon="fab fa-github" title="Contributions welcome!" url="https://github.com/RoboconKnowledge" %}}
+RoboconKnowledgeの<br>コントリビューターになりませんか？
+
+共にこのWikiを盛り上げてくれる<br>メンバーを募集しています.
 {{% /blocks/feature %}}
 
 
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!" url="https://twitter.com/Msymng" %}}
-管理人のTwitter
+{{% blocks/feature icon="fab fa-slack" title="Join a Slack workspace!" url="https://robocon-knowledge.slack.com/" %}}
+RoboconKnowledgeではSlackを通じてやり取りをしています. 
 {{% /blocks/feature %}}
 
 {{< /blocks/section >}}
